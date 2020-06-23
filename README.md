@@ -5,3 +5,5 @@ Application fetches data from https://raw.githubusercontent.com/CSSEGISandData/C
 Then it parses it and shows in table.
 
 Technologies used - Spring and some Thymeleaf+Bootstrap
+
+screenshot.png is how it looks
